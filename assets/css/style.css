@@ -1,6 +1,6 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(226, 226, 182);
+    background-color: rgb(233, 245, 224);
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
 .menu {
     display: flex; 
     justify-content: space-between;
-    background-color: rgb(35, 185, 223);
+    background-color: rgb(150, 215, 231);
 }
 .menu li {
     border:1px solid rgb(136, 255, 0);
@@ -21,7 +21,7 @@ body {
     justify-content: center;
 }
 .tittle2{
-    background-color: cornflowerblue;
+    background-color: rgb(139, 177, 248);
 }
 .img{
     display: flex;
@@ -36,3 +36,8 @@ body {
     margin: 2px;
     
 }
+.margin{
+    margin: 4px;
+}
+
+
