@@ -1,0 +1,48 @@
+.bodyy {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(242, 248, 237);
+}
+
+.container {
+    max-width: 1000px;
+    border: 1px solid rgb(20, 19, 19); 
+    margin: 0 auto; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu {
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(150, 215, 231);
+}
+.menu li {
+    border:1px solid rgb(194, 223, 162);
+}
+.tittle{
+    display: flex;
+    justify-content: center;
+}
+.tittle2{
+    background-color: rgb(139, 177, 248);
+}
+.img{
+    display: flex;
+    justify-content:space-between;
+    border: 20px;
+    margin: 10px;
+}
+.posicion{
+    display: flex;
+    border: 1px solid;
+    border-color: black;
+    margin: 2px;
+    
+}
+.margin{
+    margin: 4px;
+}
+.border{
+    border: solid;
+    border-color: rgba(230, 226, 226, 0.932);
+    margin: 2px;
+}
+
